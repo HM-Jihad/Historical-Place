@@ -1,0 +1,106 @@
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #233;
+    background-color: #fff;
+    padding: 15px;
+}
+
+/* Header styles */
+header {
+background-color : #233;
+color: #fff;
+text-align: center;
+margin-bottom: 20px;
+padding:25px;
+
+}
+
+header h1 {
+    font-size: 28px;
+    color: #fff;
+}
+
+
+
+section {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+section h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #233;
+}
+
+section p{
+    font-size: 16px;
+    line-height: 1.6;
+    padding: 15px;
+
+}
+
+section ul {
+    list-style-type: disc;
+    margin-left: 30px;
+}
+
+section li {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Footer styles */
+footer {
+background-color: #233;
+color: #fff;
+padding: 30px;
+text-align : center;
+}
+.logo
+{
+	font-size:10px;
+	font-family: cursive;
+	color:white;
+}
+.hover
+{
+	width:40px;
+	height:40px;
+}
+nav ul li{
+  list-style-type: none;
+}
+
+
+nav ul li {
+  display: inline;
+  margin-right: 30px;
+}
+
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+nav
+{
+background-color: #233;
+padding: 30px;
+}
+select 
+{
+    color:white;
+    outline-coloe:white;
+    font-size: 15px;
+    background-color:#233;
+}
+
+/* Links styles */
+
+

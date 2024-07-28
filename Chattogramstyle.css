@@ -1,0 +1,135 @@
+body{
+font-family : Arial, sans-serif;
+line-height : 2;
+}
+.logo
+{
+	font-size:10px;
+	font-family: cursive;
+	color:white;
+}
+
+header {
+background-color: #233;
+padding: 30px;
+}
+
+
+.container {
+  max-width: 1150px;
+  margin: auto;
+  padding: 40px;
+}
+
+
+nav ul li{
+  list-style-type: none;
+}
+
+
+nav ul li {
+  display: inline;
+  margin-right: 30px;
+}
+
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+.section{
+padding : 50px;
+
+}
+
+form input, form textarea {
+margin-bottom: 15px;
+width: 80%;
+padding: 20px;
+}
+
+form input [type ="submit"]{
+background-color: #233;
+}
+
+footer{
+background-color: #233;
+color: #fff;
+padding: 30px;
+text-align : center;
+
+}
+h1 {
+    border:2px grey;
+    color:black;
+    border-radius:30px;
+    text-align:center;
+    }
+.contain
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:60%;
+}
+.hover
+{
+	width:40px;
+	height:40px;
+}
+.place p
+{
+	font-family:cursive;
+	font-size:17px;
+	font-weight:bold;
+	padding:10px;
+}
+.select 
+{
+ margin-left:auto;
+ margin-right:auto;
+ text-align:center;
+ border:2px #d5f5f1 solid;
+ border-radius:30px;
+ background-color:#dff0ee;
+}
+select 
+{
+    color:white;
+    outline-coloe:white;
+    font-size: 15px;
+    background-color:#233;
+}
+
+#connect img {
+    height: 50px;
+    width: 50px;
+    margin-left: 7px;
+    margin-right: 7px;
+    color:red;
+    decoration:none;
+    }
+ #connect {
+text-align:center
+}
+.text a
+{
+	text-align:center;
+	color:red;
+	text-decoration:none;
+	font-size:18px;
+	font-family:cursive;
+    margin-right:20px
+}
+.place a
+{
+	color:red;
+	text-decoration:none;
+}
+
+
+
+
+
