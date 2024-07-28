@@ -9,8 +9,7 @@
 ### Features
 
 - **Comprehensive Information**: Detailed descriptions, historical background, and significance of each place.
-- **Interactive Map**: A map showing the locations of all historical sites listed on the website.
-- **Search Functionality**: Easily search for historical places by name, location, or category.
+- **Search Functionality**: Easily search for historical places by division name.
 - **User Contributions**: Users can submit their own information and photos of historical places.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
