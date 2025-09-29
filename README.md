@@ -47,11 +47,6 @@ We welcome contributions from the community! To contribute, please follow these 
     ```
 5. Create a Pull Request on GitHub.
 
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-
 
 ### Contact
 
